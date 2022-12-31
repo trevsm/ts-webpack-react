@@ -1,0 +1,19 @@
+{
+  "name": "ts-webpack-react",
+  "version": "1.0.4",
+  "description": "A tool for starter react app with typescript and webpack",
+  "bin": {
+    "ts-webpack-react": "scripts/index.sh"
+  },
+  "scripts": {
+    "start": "./scripts/start.sh"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "webpack",
+    "starter"
+  ],
+  "author": "Trevor Smith",
+  "license": "MIT"
+}
