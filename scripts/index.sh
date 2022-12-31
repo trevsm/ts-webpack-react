@@ -246,6 +246,7 @@ EOF
 
 curl https://cdn.discordapp.com/attachments/870398124198354974/1058467907887169669/slippy_jr_a_colorful_neon_programming_software_32bdd529-6bef-4b63-bded-39480cbdcc6b.png --output $1/src/assets/placeholder.png
 
+clear
+
 echo "Project created successfully!"
 echo "To run the project, run 'npm start' in the project directory."
-echo "Enjoy!"
