@@ -1,6 +1,6 @@
 {
   "name": "ts-webpack-react",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A tool for starter react app with typescript and webpack",
   "bin": {
     "ts-webpack-react": "scripts/index.sh"
